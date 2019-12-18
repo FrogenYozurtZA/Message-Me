@@ -11,3 +11,14 @@
 .center-text {
     text-align: center;
 }
+
+.input {
+    button {
+        display: none;
+    }
+}
+#messages {
+    overflow: auto;
+    height: 15em;
+}
+
